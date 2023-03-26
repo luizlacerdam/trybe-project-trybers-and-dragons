@@ -25,7 +25,7 @@ services:
       # dentro do diretório /app
       - ./:/app
 
-# Lista de redes que os containeres irão utilizar
+# Lista de redes que os containeres irão utilizara
 networks:
   # Rede padrão, criada automaticamente
   default:
