@@ -1,5 +1,8 @@
 import Archetype from './Archetype';
 import Mage from './Mage';
+import Necromancer from './Necromance';
+import Ranger from './Ranger';
+import Warrior from './Warrior';
 
-export { Mage };
+export { Mage, Necromancer, Ranger, Warrior };
 export default Archetype;
